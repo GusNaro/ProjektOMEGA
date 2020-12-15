@@ -9,3 +9,8 @@ Program ini memiliki fitur:
 - Laporan per tahun per periode per wilayah
 
 Program ini masih dalam pengembangan, ditargetkan selesai tanggal 30 Desember 2020
+
+Untuk informasi selengkapnya bisa menghubungi saya di:
+Telp: (0361) 223301 ext 122
+Email: narotama@bpdbali.co.id
+Website: www.bpdbali.co.id
